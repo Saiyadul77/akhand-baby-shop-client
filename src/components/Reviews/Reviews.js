@@ -1,13 +1,20 @@
 import React from 'react';
+import useReviews from '../../hooks/useReviews';
 
-const Reviews = ({ review }) => {
-    const { name, comments, rating } = review;
+const Reviews = () => {
+    const [reviews, setReviews] = useReviews();
     return (
-        <div>
-            <h1>This is customer review</h1>
-            <h3>{name}</h3>
-            <h4>{comments}</h4>
-            <p>{rating}</p>
+        <div className='display-product'>
+            {
+                reviews.map(review =>
+                    <div>
+                        <h1>{review.name}</h1>
+                        <h3>{review.comments}</h3>
+                        <p>{review.rating}</p>
+                    </div>
+
+                )
+            }
         </div>
     );
 };
