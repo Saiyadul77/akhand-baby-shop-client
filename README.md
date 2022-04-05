@@ -2,10 +2,10 @@
 
 ## I have completed my assignment [Welcome to Akhand Baby Shop.](https://akhand-baby-shop.netlify.app/) 
 
-Markup : * My webpage name Akhand Baby Shop. <br>
+Markup :<br> * My webpage name Akhand Baby Shop. <br>
          * I use react router. <br>
-         * Also i use hooks. <br>
-         * Also i create dashboard.
+         * Also I use hooks. <br>
+         * Also I create dashboard.
                   
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
