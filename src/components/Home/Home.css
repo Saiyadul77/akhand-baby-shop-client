@@ -1,0 +1,5 @@
+.product-information {
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    margin-top: 20px;
+}
