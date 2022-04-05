@@ -2,6 +2,11 @@
 
 ## I have completed my assignment [Welcome to Akhand Baby Shop.](https://akhand-baby-shop.netlify.app/) 
 
+Markup : * Bullet list
+              * Nested bullet
+                  * Sub-nested bullet etc
+          * Bullet list item 2
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
