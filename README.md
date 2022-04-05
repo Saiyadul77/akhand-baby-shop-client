@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+## I have completed my assignment [Welcome to Akhand Baby Shop.](https://akhand-baby-shop.netlify.app/) 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
