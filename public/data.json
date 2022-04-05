@@ -5,9 +5,9 @@
         "investment": 100000,
         "sell": 241,
         "revenue": 10401,
-        "name": "Asadul",
+        "name": "Md. Asadul Amin Akhand",
         "comments": "This product is very good. My baby loved this product very much. Your delivery system is very good",
-        "rating": 4
+        "rating": 5
     },
     {
         "id": 2,
@@ -15,9 +15,9 @@
         "investment": 200000,
         "sell": 423,
         "revenue": 24500,
-        "name": "Asadul",
-        "comments": "This product is very good.",
-        "rating": 1
+        "name": "Md. Saiyadul Amin Akhand",
+        "comments": "Ow this product is very beautiful. I like it very much. Actually your delivery process very good",
+        "rating": 4
     },
     {
         "id": 3,
@@ -25,9 +25,9 @@
         "investment": 500000,
         "sell": 726,
         "revenue": 67010,
-        "name": "Asadul",
-        "comments": "This product is very good.",
-        "rating": 1
+        "name": "Md. Ziaul Amin Akhand",
+        "comments": "Masha-Allah....Your product is good.I hope you continue your good service long time",
+        "rating": 5
     },
     {
         "id": 4,
@@ -35,9 +35,9 @@
         "investment": 500000,
         "sell": 529,
         "revenue": 40405,
-        "name": "Asadul",
-        "comments": "This product is very good.",
-        "rating": 1
+        "name": "Md. Baharul Amin Akhand",
+        "comments": "Yap..........! This product is Fine.",
+        "rating": 3
     },
     {
         "id": 5,
@@ -45,9 +45,9 @@
         "investment": 600000,
         "sell": 601,
         "revenue": 50900,
-        "name": "Asadul",
-        "comments": "This product is very good.",
-        "rating": 1
+        "name": "Md. Badrul Amin Akhand",
+        "comments": "Nice Product. Also your servicing process very good",
+        "rating": 4
     },
     {
         "id": 6,
@@ -55,8 +55,8 @@
         "investment": 700000,
         "sell": 670,
         "revenue": 61000,
-        "name": "Asadul",
-        "comments": "This product is very good.",
-        "rating": 1
+        "name": "Md. Shafiul Amin Akhand",
+        "comments": "Not Bad.....! I think need good service, good behave...All the best",
+        "rating": 2
     }
 ]
