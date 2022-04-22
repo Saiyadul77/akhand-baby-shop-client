@@ -11,7 +11,7 @@ const Reviews = () => {
                     <div key={review.id}>
                         <h1>{review.name}</h1>
                         <h3>{review.comments}</h3>
-                        <p>{review.rating}</p>
+                        <p>Rating:{review.rating}</p>
                     </div>
 
                 )

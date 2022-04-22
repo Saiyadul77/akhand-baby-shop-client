@@ -1,10 +1,12 @@
-import React from 'react';
+import React, { useState } from 'react';
 import useReviews from '../../hooks/useReviews';
 import './Home.css'
 
 
 const Home = () => {
     const [reviews, setReviews] = useReviews();
+
+
     return (
         <div>
             <div className='product-information'>
@@ -29,7 +31,7 @@ const Home = () => {
                         <div key={review.id}>
                             <h1>{review.name}</h1>
                             <h3>{review.comments}</h3>
-                            <p>{review.rating}</p>
+                            <p>Rating: {review.rating}</p>
                         </div>
 
                     )
