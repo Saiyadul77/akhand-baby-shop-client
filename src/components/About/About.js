@@ -3,7 +3,7 @@ import React from 'react';
 const About = () => {
     return (
         <div>
-            <h4>Nothing to say about us. Already you know everything</h4>
+            <h4>Akhand Baby shop is one of the biggest baby shop in Bangladesh.</h4>
         </div>
     );
 };
